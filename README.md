@@ -1,5 +1,16 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Kinde (auth)
+Neon.tech (db)
+tailwind, typescript
+trpc
+openai/pinecone/ai(stream) - TODO: didnt make it work cuz no creds on openai
+
+#### errors
+[InsufficientQuotaError]: You exceeded your current quota, please check your plane check your plan and billing details.
+
+solution: need to add credits to OpenAI account
+
 ## Getting Started
 
 First, run the development server:
